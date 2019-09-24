@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoeslemScientiest</string>
+    <string name="scientist">Nama Ilmuwan</string>
+    <string name="desc">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name">Fahmi Sajid</string>
+    <string name="email">fahmisajid8@gmail.com</string>
+    <string name="dapat_data">dapat data</string>
+    <string name="nama">nama</string>
+    <string name="ttl">TTL</string>
+    <string name="tahun_kematian">Tahun Kematian</string>
+    <string name="bidang_ahli">Bidang Ahli</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="karya">Karya</string>
+</resources>
